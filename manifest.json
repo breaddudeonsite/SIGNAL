@@ -2,7 +2,7 @@
   "name": "SIGNAL — Daily HUD",
   "short_name": "SIGNAL",
   "description": "Energy-scaled daily routine tracker with XP, levels and gear.",
-  "start_url": "./hud.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
