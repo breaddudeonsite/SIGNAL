@@ -4,7 +4,7 @@
 
 const CACHE_NAME = 'signal-shell-v1';
 const APP_SHELL = [
-  './hud.html',
+  './index.html',
   './manifest.json',
   './icon.svg'
 ];
